@@ -22,3 +22,10 @@ We present a portable multiscopic camera system with a dedicated model for novel
 - [ ] Release the pretrained model
 - [ ] Writing Descriptions
 - [x] Release the training code 
+
+## Set up
+### Installation
+```
+git clone https://github.com/YuenFuiLau/A-Portable-Multiscopic-Camera-for-Novel-View-and-Time-Synthesis-in-Dynamic-Scenes.git
+cd A-Portable-Multiscopic-Camera-for-Novel-View-and-Time-Synthesis-in-Dynamic-Scenes
+```
