@@ -29,3 +29,6 @@ We present a portable multiscopic camera system with a dedicated model for novel
 git clone https://github.com/YuenFuiLau/A-Portable-Multiscopic-Camera-for-Novel-View-and-Time-Synthesis-in-Dynamic-Scenes.git
 cd A-Portable-Multiscopic-Camera-for-Novel-View-and-Time-Synthesis-in-Dynamic-Scenes
 ```
+
+## Acknowledgement
+Thanks to [nerfmm(PyTorch)](https://github.com/ActiveVisionLab/nerfmm) for sharing their code.
