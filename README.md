@@ -18,6 +18,6 @@ We present a portable multiscopic camera system with a dedicated model for novel
 <img src="pics/pipline.png" width="1199px"/>  
 
 ## To Do
-- [] Release the inference code
-- [] Release the pretrained model
-- [] Release the training code 
+- [ ] Release the inference code
+- [ ] Release the pretrained model
+- [x] Release the training code 
