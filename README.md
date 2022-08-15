@@ -15,4 +15,4 @@ Update: We released the training code. -->
 ## Introduction
 We present a portable multiscopic camera system with a dedicated model for novel view and time synthesis in dynamic scenes. Our goal is to render high-quality images for a dynamic scene from any viewpoint at any time using our portable multiscopic camera. To achieve such novel view and time synthesis, we develop a physical multiscopic camera equipped with five cameras to train a neural radiance field (NeRF) in both time and spatial domains for dynamic scenes.
 
-<img src="pics/pipline.png" width="800px"/>  
+<img src="pics/pipline.png" width="1199px"/>  
