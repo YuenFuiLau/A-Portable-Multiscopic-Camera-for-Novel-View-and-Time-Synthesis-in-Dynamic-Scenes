@@ -20,4 +20,5 @@ We present a portable multiscopic camera system with a dedicated model for novel
 ## To Do
 - [ ] Release the inference code
 - [ ] Release the pretrained model
+- [ ] Writing Description
 - [x] Release the training code 
