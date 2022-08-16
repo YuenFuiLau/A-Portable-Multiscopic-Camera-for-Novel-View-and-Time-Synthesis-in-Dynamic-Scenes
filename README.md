@@ -30,5 +30,12 @@ git clone https://github.com/YuenFuiLau/A-Portable-Multiscopic-Camera-for-Novel-
 cd A-Portable-Multiscopic-Camera-for-Novel-View-and-Time-Synthesis-in-Dynamic-Scenes
 ```
 
+### Environment
+The environment can be simply set up from the provided `environment.yml`:
+
+```
+conda env create -f environment.yml
+```
+
 ## Acknowledgement
 Thanks to [nerfmm(PyTorch)](https://github.com/ActiveVisionLab/nerfmm) for sharing their code.
