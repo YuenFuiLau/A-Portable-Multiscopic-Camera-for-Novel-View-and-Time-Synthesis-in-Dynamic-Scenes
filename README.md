@@ -10,7 +10,7 @@ Update: We provided a Colab notebook for play.
 Update: We released the training code. -->
 
 
-[paper](pending-for-release) | [supp.](pending-for-release) | [project website](https://yuenfuilau.github.io/) | [demo video](https://www.youtube.com/watch?v=IUmy1LBCVhc) 
+[paper](https://arxiv.org/abs/2208.14433) | [project website](https://yuenfuilau.github.io/) | [demo video](https://www.youtube.com/watch?v=IUmy1LBCVhc) 
 
 <img src="pics/room2_img.gif" width="260"/>        <img src="pics/room7_img.gif" width="260"/>  
 
